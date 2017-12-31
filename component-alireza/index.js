@@ -1,1 +1,1 @@
-console.log('Alireza file');
+console.log('This is alireza component');
